@@ -20,7 +20,7 @@ label {
   margin-bottom: 10px;
 }
 
-input[type="text"], input[type="number"] {
+input[type="text"], input[type="number"], input[type="tel"], input[type="email"] {
   width: 80%;
   padding: 8px;
   margin-bottom: 15px;
